@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Async Generator.
+Async Random Number Generator.
 """
 import asyncio
 import random
